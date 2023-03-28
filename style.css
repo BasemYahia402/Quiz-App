@@ -75,6 +75,8 @@ input[type='radio']::after {
     height: 10px;
     border-radius: 15px;
     position: relative;
+    top: 2px;
+    left: 1px;
     background-color: var(--second_color);
     content: '';
     display: inline-block;
@@ -87,6 +89,8 @@ input[type='radio']:checked:after {
     height: 10px;
     border-radius: 15px;
     position: relative;
+    top: 2px;
+    left: 1px;
     background-color: var(--third_color);
     content: '';
     display: inline-block;
