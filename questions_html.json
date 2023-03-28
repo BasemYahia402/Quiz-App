@@ -1,0 +1,42 @@
+[
+    {
+        "title": "why we use <br> Elment",
+        "answer_1": "to make text bold",
+        "answer_2": "to make text italic",
+        "answer_3": "to add breakline",
+        "answer_4": "to add horizontal line",
+        "right_answer": "to add breakline"
+    },
+    {
+        "title": "why we use <hr> Elment",
+        "answer_1": "to make text bold",
+        "answer_4": "to add horizontal line",
+        "answer_2": "to make text italic",
+        "answer_3": "to add breakline",
+        "right_answer": "to add horizontal line"
+    },
+    {
+        "title": "why we use <b> Elment",
+        "answer_1": "to make text bold",
+        "answer_4": "to add horizontal line",
+        "answer_2": "to make text italic",
+        "answer_3": "to add breakline",
+        "right_answer": "to make text bold"
+    },
+    {
+        "title": "why we use <strong> Elment",
+        "answer_1": "to make text bold",
+        "answer_4": "to add horizontal line",
+        "answer_2": "to make text italic",
+        "answer_3": "to add breakline",
+        "right_answer": "to make text bold"
+    },
+    {
+        "title": "why we use <em> Elment",
+        "answer_1": "to make text bold",
+        "answer_4": "to add horizontal line",
+        "answer_2": "to make text italic",
+        "answer_3": "to add breakline",
+        "right_answer": "to make text italic"
+    }
+]
