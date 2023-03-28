@@ -68,13 +68,15 @@ body {
     padding: 10px 0;
     font-size: 20px;
 }
-
+input[type='radio']{
+    position: relative;
+}
 input[type='radio']::after {
     content: "";
     width: 10px;
     height: 10px;
     border-radius: 15px;
-    position: relative;
+   position: absolute;
     background-color: var(--second_color);
     content: '';
     display: inline-block;
@@ -83,12 +85,12 @@ input[type='radio']::after {
 }
 
 input[type='radio']:checked:after {
+    content: '';
     width: 10px;
     height: 10px;
     border-radius: 15px;
-    position: relative;
+    position: absolute;
     background-color: var(--third_color);
-    content: '';
     display: inline-block;
     visibility: visible;
     border: 2px solid white;
